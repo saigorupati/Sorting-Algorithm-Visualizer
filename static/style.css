@@ -1,0 +1,81 @@
+body{
+    background-color: #D7ECE6FF;
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.array-container {
+    text-align: center;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+.array-bars {
+    width: 4px;
+    margin: 1.5px;
+    margin-top: 0px;
+}
+
+
+header {
+  background: repeating-linear-gradient(90deg, #022430, #022430 20px, #022430 20px, #022430 40px);
+  box-shadow: 0 4px 6px rgba(0,0,0,.2);
+}
+.container {
+  padding: 0 60px 0 20px;
+  margin: 0 auto;
+}
+nav {
+  overflow: hidden;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 10px;
+  height: 60px;
+  line-height: 50px;
+  transition: 1s linear;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  display: block;
+  position: relative;
+  color: #e3dada;
+
+}
+
+h3 {
+    font-family: 'Noto Sans';
+    font-size: 20px;
+    margin: 20px 150px 20px 20px;
+    color: #f5ebeb;
+    float: left;
+    font-weight: 550;
+}
+
+ul button {
+    border: none;
+    color: ghostwhite;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: darkcyan;
+    border-radius: 4px;
+    margin: 10px 0px 0px 0px;
+}
+
+ul button:hover {
+  box-shadow: 0 0 10px 0 #ffffff inset, 0 0 10px 4px #ffffff;
+}

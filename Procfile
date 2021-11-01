@@ -1,0 +1,1 @@
+web: gunicorn sorting_visualizer.wsgi
