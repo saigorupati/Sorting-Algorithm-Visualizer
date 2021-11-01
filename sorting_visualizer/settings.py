@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-=vk1q&q2s-v^o5$cuqgye2+$*_vog9w#sm6!&qxlee33j3($%r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://thawing-badlands-99635.herokuapp.com/'
+]
 
 
 # Application definition
