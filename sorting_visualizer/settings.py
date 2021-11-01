@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-=vk1q&q2s-v^o5$cuqgye2+$*_vog9w#sm6!&qxlee33j3($%r
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://thawing-badlands-99635.herokuapp.com/'
+    'thawing-badlands-99635.herokuapp.com'
 ]
 
 
